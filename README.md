@@ -14,9 +14,8 @@ Flixing in the Strangest way... or the BEST way... ;)
 
 1) [Features](#fet)
 2) [Installation](#install)
-3) [Go-through Videos](#gothru)
-4) [Tech-Stack Used](#depend)
-5) [Contributors](#contri)
+3) [Tech-Stack Used](#depend)
+4) [Contributors](#contri)
 
 <a name="fet"></a>
 ## Features
@@ -50,7 +49,7 @@ normal uploads, and a website link.
 ## Installation
 1) Clone the repository using:
 ```bash
-git clone https://github.com/wsLord/StrangeFlix.git
+git clone https://github.com/gauravchaurasia123/StrangeFlix.git
 ```
 2) Install the dependencies given [below](#depend)
 3) Start MongoDB and set up admin controls
@@ -59,11 +58,6 @@ git clone https://github.com/wsLord/StrangeFlix.git
 npm start
 ```
 
-<a name="gothru"></a> 
-## Go-through Videos
-
-* [User Control](https://youtu.be/DL2O1OuxEoc)
-* [Admin Control](https://youtu.be/hxYas4KMJ5w)
 
 <a name="depend"></a>
 ## Tech-Stack Used
