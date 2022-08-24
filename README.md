@@ -79,8 +79,9 @@ npm start
 <a name="contri"></a>
 ## Contributors
 
-* [Priyanshu Gupta](github.com/wsLord)
-* [Sanskar Jain](github.com/skj-7)
+* [Gaurav Chaurasia]
+* [Priyanshu Gupta]
+* [Sanskar Jain]
 
 ## Feedback
 Feel free to file an issue if you come across any bugs
