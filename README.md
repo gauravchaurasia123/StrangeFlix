@@ -8,7 +8,7 @@ Flixing in the Strangest way... or the BEST way... ;)
 </p>
 
 ## Introduction
-  Webster 2k20 Project - Online video streaming service
+ Online video streaming service
 
 ## Table of Contents:
 
